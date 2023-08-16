@@ -12,18 +12,20 @@ Se estudian procesamientos de distintas intensidades como dejar el tweet origina
 
 **Representación**
 Se estudian los siguientes algoritmos:
-1. Representaciones frecuentistas: Bag of Words y TF IDF
-2. Embeddings: Word2Vec y FastText
-3. Transformers: BETO (Spanish BERT model)
+1. **Representaciones frecuentistas:** *Bag of Words y TF IDF*
+2. **Embeddings:** *Word2Vec y FastText*
+3. **Transformers:** *BETO (Spanish BERT model)*
 
 
 **Clasificación**
 Algunos de los algoritmos considerados son los siguientes:
 
-1. Support Vector Machine
-2. Logistic Regression
-3. Decision Tree
-4. Random Forest
-5. AdaBoost
-6. Redes Neuronales Convolucionales
-7. Arquitecturas personalizadas para Fine Tuning
+1. *Support Vector Machine*
+2. *Logistic Regression*
+3. *Decision Tree*
+4. *Random Forest*
+5. *AdaBoost*
+6. *Redes Neuronales Convolucionales*
+7. *Arquitecturas personalizadas para Fine Tuning*
+
+**Se obtuvo un F1 score máximo de 0.97 para el problema de ideología binaria, mientras que para el problema multiclase se obtuvo un F1 score de 0.81**
