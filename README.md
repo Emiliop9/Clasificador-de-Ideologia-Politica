@@ -1,2 +1,4 @@
 # Clasificador-de-Ideologia-Politica-Tesis
-Recopilación de técnicas estudiadas para crear un mecanismo de clasificación de ideología política
+El trabajo de grado tiene como propósito estudiar estudiar el desempeño de un *mecanismo de clasificación* tomando como referencia los siguientes niveles de experimentación:
+
+
