@@ -7,17 +7,23 @@ El trabajo de grado tiene como propósito estudiar estudiar el desempeño de un 
 
 
 **Preprocesamiento**
+
 Se estudian procesamientos de distintas intensidades como dejar el tweet original, otros intermedios como normalizar a minúsculasy removiendo la puntuación excesiva y algunos mas agresivos que incluyen el remover stopwords, palabras con longitud menor a la deseada, etc.
 
 
 **Representación**
+
 Se estudian los siguientes algoritmos:
-1. **Representaciones frecuentistas:** *Bag of Words y TF IDF*
-2. **Embeddings:** *Word2Vec y FastText*
-3. **Transformers:** *BETO (Spanish BERT model)*
+1. **Representaciones frecuentistas:**
+*Bag of Words y TF IDF*
+2. **Embeddings:**
+*Word2Vec y FastText*
+3. **Transformers:**
+*BETO (Spanish BERT model)*
 
 
 **Clasificación**
+
 Algunos de los algoritmos considerados son los siguientes:
 
 1. *Support Vector Machine*
